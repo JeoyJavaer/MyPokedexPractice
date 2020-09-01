@@ -83,3 +83,19 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+/gradle.properties
+/gradlew
+/gradlew.bat
+.idea/$CACHE_FILE$
+.idea/codeStyles/
+.idea/encodings.xml
+.idea/jarRepositories.xml
+.idea/misc.xml
+.idea/runConfigurations.xml
+app/.gitignore
+app/PokedexApp.kts
+app/build.gradle
+app/libs/
+app/proguard-rules.pro
+gradle/
+settings.gradle
